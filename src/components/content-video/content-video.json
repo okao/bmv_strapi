@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_content_video_content_videos",
+  "info": {
+    "displayName": "ContentVideo",
+    "icon": "monitor"
+  },
+  "options": {},
+  "attributes": {
+    "caption": {
+      "type": "string"
+    },
+    "video": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

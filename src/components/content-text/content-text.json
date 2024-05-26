@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_content_text_content_texts",
+  "info": {
+    "displayName": "ContentText",
+    "icon": "expand"
+  },
+  "options": {},
+  "attributes": {
+    "body": {
+      "type": "blocks"
+    }
+  }
+}
